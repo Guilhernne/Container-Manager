@@ -1,1 +1,78 @@
 # containerManager
+
+# 📦 Container Manager
+
+Sistema web para **gestão e controle de containers** utilizados em obras, reformas e pátios, permitindo cadastro, edição de ficha, controle visual de status e persistência de dados no navegador.
+
+O projeto foi desenvolvido com **JavaScript puro (Vanilla JS)**, focando em lógica, organização de código, experiência do usuário e funcionamento offline.
+
+---
+
+## 🚀 Funcionalidades
+
+- 📋 Cadastro e exclusão de containers
+- 🗂️ Ficha individual para cada container
+- 🎨 Controle de status com cores:
+  - 🔴 Em obra
+  - 🟡 Em reforma
+  - 🟢 Em pátio
+- 🔍 Busca rápida por número do container
+- 🧭 Menu lateral para gerenciamento
+- 💾 Persistência de dados usando `localStorage`
+- 📱 Layout responsivo (desktop e mobile)
+- ✨ Animações suaves de abertura do modal
+
+---
+
+## 🛠️ Tecnologias Utilizadas
+
+- **HTML5**
+- **CSS3**
+  - Flexbox
+  - Grid Layout
+- **JavaScript (Vanilla JS)**
+- **LocalStorage** para persistência de dados
+- **Responsividade Mobile First**
+
+---
+
+## 🧠 Desafios Técnicos Enfrentados
+
+- Gerenciamento de estado sem frameworks
+- Sincronização entre ficha do container e grid visual
+- Persistência e recuperação de dados após recarregar a página
+- Atualização dinâmica de status e cores
+- Organização de código em módulos JavaScript
+- Experiência do usuário em dispositivos móveis
+
+---
+
+## 📸 Demonstração
+
+🔗 **Demo Online:**  
+
+📷 **Screenshots:** 
+
+## 📂 Estrutura do Projeto
+
+```text
+/
+├── index.html
+├── css/
+│   ├── base.css
+│   ├── modal.css
+│   └── menu.css
+├── js/
+│   ├── storage.js
+│   ├── modal.js
+│   ├── grid.js
+│   ├── menu.js
+│   └── main.js
+└── assets/
+
+👨‍💻 Autor
+
+Luis Guilherme de Oliveira
+Desenvolvedor Front-end em formação
+
+📌 Projeto desenvolvido para fins de aprendizado, portfólio e evolução profissional.
