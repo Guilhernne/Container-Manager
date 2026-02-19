@@ -50,9 +50,11 @@ O projeto foi desenvolvido com **JavaScript puro (Vanilla JS)**, focando em lóg
 ## 📸 Demonstração
 
 🔗 **Demo Online:**  
-
+https://guilhernne.github.io/Container-Manager/
 📷 **Screenshots:** 
-
+<img width="1582" height="637" alt="Image" src="https://github.com/user-attachments/assets/1b5d83b8-5d03-4aef-8fd9-3e999c20c7ac" />
+<img width="1597" height="767" alt="Image" src="https://github.com/user-attachments/assets/531e355a-2beb-4900-bd9d-be0170b813ab" />
+<img width="1597" height="722" alt="Image" src="https://github.com/user-attachments/assets/289d8c87-666a-42e2-a5f3-c7e78a3a0cc4" />
 ## 📂 Estrutura do Projeto
 
 ```text
